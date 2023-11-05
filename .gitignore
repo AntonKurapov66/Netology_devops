@@ -1,0 +1,4 @@
+# ignore all .рус 
+*.pyc
+# ignore all directory cache
+/var/cache/
